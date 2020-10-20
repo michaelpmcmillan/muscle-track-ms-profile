@@ -1,2 +1,6 @@
 [build]
   functions = "functions"
+[[headers]]
+  for = "/*"
+    [headers.values]
+    Access-Control-Allow-Origin = "https://muscle-track-ms-profile.netlify.app"
