@@ -3,4 +3,4 @@
 [[headers]]
   for = "/*"
     [headers.values]
-    Access-Control-Allow-Origin = "https://muscle-track-ms-profile.netlify.app"
+    Access-Control-Allow-Origin = "https://muscle-track-mfe-profile.netlify.app"
